@@ -1,1 +1,1 @@
-This is a boilerplate repository
+"This is a boilerplate repository"
